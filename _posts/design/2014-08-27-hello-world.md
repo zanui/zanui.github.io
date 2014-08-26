@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Hello World"
+author: sheilaleon
 modified:
-categories: blog
+categories: design
 excerpt:
 tags: []
 image:
-  feature:
+  feature: so-simple-sample-image-1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 date: 2014-08-08T15:39:55-04:00
 ---
 

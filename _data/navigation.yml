@@ -1,16 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: /
 
-- title: Articles
-  url: /articles/
+- title: Development
+  url: /development/
 
-- title: Blog
-  url: /blog/
+- title: Design
+  url: /design/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Zanui.com.au
+  url: http://www.zanui.com.au
