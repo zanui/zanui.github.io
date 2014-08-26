@@ -5,7 +5,7 @@ locale: en_AU
 description: Development and design blog from Zanui
 logo: site-logo.png
 search: true
-url: http://zanui.github.io
+url:
 
 
 # Jekyll configuration
