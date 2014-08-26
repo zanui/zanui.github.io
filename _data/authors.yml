@@ -1,20 +1,89 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+estahn:
+  name: Enrico Stahn
+  web:
+  title: Head of Engineering
+  email:
+  bio:
+  avatar:
+  twitter:
   google:
-    plus: BillyRick
+    plus:
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+cjpacheco:
+  name: Carlos Pacheco
+  web:
+  title: Project Manager
+  email:
+  bio:
+  avatar:
+  twitter:
   google:
-    plus: CorneliusFiddlebone
+    plus:
+
+sheilaleon:
+  name: Sheila Leon
+  web:
+  title: Web & UI Designer
+  email:
+  bio:
+  avatar:
+  twitter:
+  google:
+    plus:
+
+kyaw-myo-thein:
+  name: Kyaw Myo Thein
+  web:
+  title: QA Engineer
+  email:
+  bio:
+  avatar:
+  twitter:
+  google:
+    plus:
+
+woodsae:
+  name: Adam Woods
+  web:
+  title: Senior PHP Developer
+  email:
+  bio:
+  avatar:
+  twitter:
+  google:
+    plus:
+
+rison:
+  name: Max Huang
+  web:
+  title: Front-end Engineer
+  email:
+  bio:
+  avatar:
+  twitter:
+  google:
+    plus:
+
+jiurongliu:
+  name: Jiurong Liu
+  web:
+  title: PHP Developer
+  email:
+  bio:
+  avatar:
+  twitter:
+  google:
+    plus:
+
+javiercejudo:
+  name: Javier Cejudo
+  web: http://www.javiercejudo.com
+  title: PHP Developer
+  email: javier@javiercejudo.com
+  bio: Software engineer living in the wrong hemisphere.
+  avatar: https://avatars0.githubusercontent.com/u/1095851?v=1&s=150
+  twitter: javiercejudo
+  google:
+    plus: javiercejudo

@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Zanui Engineering
+locale: en_AU
+description: Development and design blog from Zanui
 logo: site-logo.png
 search: true
 url: 
@@ -32,20 +32,20 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Zanui.com.au
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: engineering@zanui.com.au
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: zanui
+  facebook: zanui.com.au
+  github: zanui
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: zanui
+  instagram: zanui
   flickr: #username
   tumblr: #username
   google:
-    plus: #username
+    plus: ZanuiAu
     analytics:
     verify:
     ad-client:
